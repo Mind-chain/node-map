@@ -31,7 +31,3 @@ Start development server
 ```
 
 
-## Screenshots
-
-![App Screenshot](https://cdn.discordapp.com/attachments/838245124827774997/1103891626851569705/image.png)
-
